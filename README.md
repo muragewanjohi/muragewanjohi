@@ -106,6 +106,6 @@ LinkedIn: Murage
 
 GitHub: murage-dev
 
-Email: murage@example.com
+Email: gatua.martin.k@gmail.com
 
 ⚡ Fun Fact: I'm passionate about AI, data analytics, and SaaS development! 🚀
