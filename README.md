@@ -8,11 +8,11 @@ Experienced Senior Developer with over 7 years of expertise in Software Engineer
 
 🔹 Backend Development
 
-Spring Boot | Kotlin | Java | Node.js | React.js | Python | Docker
+Spring Boot | Kotlin | Java | Node.js | Python | Docker
 
 🎨 Frontend Development
 
-JavaScript | HTML | CSS | UI/UX
+JavaScript | HTML | CSS | UI/UX | React.js
 
 📱 App Development
 
