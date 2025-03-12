@@ -102,9 +102,9 @@ Google UX Design Professional Certificate
 
 📫 Connect with Me
 
-LinkedIn: Murage
+LinkedIn: Martin Gatua
 
-GitHub: murage-dev
+GitHub: muragewanjohi
 
 Email: gatua.martin.k@gmail.com
 
