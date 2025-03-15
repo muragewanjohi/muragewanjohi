@@ -102,10 +102,10 @@ Google UX Design Professional Certificate
 
 📫 Connect with Me
 
-LinkedIn: Martin Gatua
+LinkedIn: [Martin Gatua](https://www.linkedin.com/in/martin-gatua-683905356/)
 
-GitHub: muragewanjohi
+GitHub: Martin Gatua
 
-Email: gatua.martin.k@gmail.com
+Email: martingatua8@gmail.com
 
 ⚡ Fun Fact: I'm passionate about AI, data analytics, and SaaS development! 🚀
