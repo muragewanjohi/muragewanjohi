@@ -1,4 +1,4 @@
-Hi there! I'm Martin Gatua 👋
+Hi there! I'm Murage Wanjohi 👋
 
 🚀 About Me
 
