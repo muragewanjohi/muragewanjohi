@@ -104,8 +104,8 @@ Google UX Design Professional Certificate
 
 LinkedIn: [Martin Gatua](https://www.linkedin.com/in/martin-gatua-683905356/)
 
-GitHub: Martin Gatua
+GitHub: Murage Wanjohi
 
-Email: martingatua8@gmail.com
+Email: muragewanjohi@gmail.com
 
 ⚡ Fun Fact: I'm passionate about AI, data analytics, and SaaS development! 🚀
