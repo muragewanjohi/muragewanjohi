@@ -1,4 +1,4 @@
-Hi there! I'm Murage Wanjohi 👋
+Hi there! I'm Martin Gatua 👋
 
 🚀 About Me
 
@@ -104,8 +104,8 @@ Google UX Design Professional Certificate
 
 LinkedIn: [Murage Wanjohi](https://www.linkedin.com/in/wanjohi-murage/)
 
-GitHub: Murage Wanjohi
+GitHub: Martin Gatua
 
-Email: muragewanjohi@gmail.com
+Email: martingatua8@gmail.com
 
 ⚡ Fun Fact: I'm passionate about AI, data analytics, and SaaS development! 🚀
