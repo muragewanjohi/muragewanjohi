@@ -102,8 +102,6 @@ Google UX Design Professional Certificate
 
 📫 Connect with Me
 
-LinkedIn: [Murage Wanjohi](https://www.linkedin.com/in/wanjohi-murage/)
-
 GitHub: Martin Gatua
 
 Email: martingatua8@gmail.com
